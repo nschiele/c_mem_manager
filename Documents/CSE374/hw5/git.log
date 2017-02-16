@@ -1,0 +1,155 @@
+commit bcdd3b56052e6b5d502753489fc0f307d786c088
+Merge: fcd34a0 c15920c
+Author: nschiele <nschiele@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 16:42:42 2016 -0800
+
+    merge
+
+commit c15920c82e5e32b3d28df92e3fd00efe68923540
+Author: nschiele <nschiele@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 16:39:29 2016 -0800
+
+    Adding dist functionality to makefile
+
+commit fcd34a0409035e1d54907764601119cd88e702d3
+Author: NicolaWernecke <nicolaw@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 16:38:15 2016 -0800
+
+    return null
+
+commit 7827ca5be9e0c773ba7d9f82e0afbf80ecf49f97
+Author: NicolaWernecke <nicolaw@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 16:36:39 2016 -0800
+
+    commented out if loop
+
+commit d2db2f0adf7663db42dd0ab04717c3d6be0216bf
+Merge: 11540bd ae5144d
+Author: NicolaWernecke <nicolaw@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 16:34:20 2016 -0800
+
+    Merge branch 'nicolaw'
+
+commit ae5144d7c97b61e0fe0b876f0bff4e790b8c8b7c
+Author: NicolaWernecke <nicolaw@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 16:34:06 2016 -0800
+
+    freemem update
+
+commit 11540bd7acd231fc4002a385dd69a8d06a4c80e1
+Author: nschiele <nschiele@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 16:31:53 2016 -0800
+
+    Adding this noise
+
+commit 9f0e7b9695557e50b7e3ca81583c1fc1da65f869
+Author: nschiele <nschiele@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 16:22:36 2016 -0800
+
+    Updating MAkefile
+
+commit cebb6cb57c78b4d9c0a27437344726c849a9dfe6
+Author: nschiele <nschiele@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 16:19:27 2016 -0800
+
+    Chaning main to bench, because that's what this thing is called.
+
+commit 49ddb95fddd13b9891d91a3d0ac75037b4f49fb9
+Merge: 7fba7dc 3c75f15
+Author: NicolaWernecke <nicolaw@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 16:14:41 2016 -0800
+
+    Merge branch 'master' of gitlab.cs.washington.edu:cse374-16wi-hw5/cse374-hw5-nicolaw-nschiele
+
+commit 3c75f159c98124617924dcbc8011acf430cd2c91
+Author: nschiele <nschiele@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 16:11:50 2016 -0800
+
+    Makefile enters the stage
+
+commit 7fba7dccca04775ab9464ac5d00d9e3db56c539b
+Merge: 590524c 997f3ef
+Author: NicolaWernecke <nicolaw@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 16:10:43 2016 -0800
+
+    Merge branch 'nicolaw'
+
+commit 997f3ef45d432ecf4335074e73b78156e46bfb3c
+Author: NicolaWernecke <nicolaw@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 16:10:16 2016 -0800
+
+    start of these files
+
+commit 590524c81a9e7a319d18ec5a42dd3bd944c7ef14
+Author: nschiele <nschiele@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 15:25:30 2016 -0800
+
+    More main
+
+commit bf440820ccdc10d143979c2ce01d5ed95594795f
+Author: nschiele <nschiele@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 15:12:13 2016 -0800
+
+    adding main and updating print heap
+
+commit a632043f19791a8b8054a2ee91f58ae6bf48d11e
+Author: nschiele <nschiele@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 15:08:59 2016 -0800
+
+    Updating getmemstats
+
+commit 3f6f6112eea2542972ab87e5940938823c1827c0
+Merge: 81d561a 2981ab6
+Author: nschiele <nschiele@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 14:48:12 2016 -0800
+
+    Merge branch 'master' of gitlab.cs.washington.edu:cse374-16wi-hw5/cse374-hw5-nicolaw-nschiele
+    
+    quit
+    quit
+    quit
+    Borm;yoisfhdmoiaxmhtso;ckghmo;mtowcp5QWXEHO;5TCIOQMHWPI
+    I
+    I HATE GIT
+
+commit 2981ab6c3c0a4fe27dafccb61a1210fa78c530dc
+Author: NicolaWernecke <nicolaw@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 14:46:07 2016 -0800
+
+    methods
+
+commit 81d561a76a699edfec7335a7427c52d50a84fc47
+Author: nschiele <nschiele@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 14:44:04 2016 -0800
+
+    Adding getmem and testing branches
+
+commit 99e3581a41bed126bd7cc1de98acc53e4deb965c
+Author: nschiele <nschiele@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 14:15:55 2016 -0800
+
+    Adding all the file
+
+commit 3d712e23cc542cb35bd35125881326e8e3ca9987
+Author: nschiele <nschiele@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 14:11:49 2016 -0800
+
+    Testing what happens when we both try this nonsense
+
+commit ded8c22da316882227874cdd85d76f829ee24c1f
+Author: NicolaWernecke <nicolaw@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 14:08:34 2016 -0800
+
+    hola2.0
+
+commit 64ac86e38c9c98b0cae83297e7001ebb60b1b881
+Author: nschiele <nschiele@klaatu.cs.washington.edu>
+Date:   Wed Feb 17 13:57:21 2016 -0800
+
+    Hola
+
+commit d10bfa6cd1f74b328d002cb5ea0c785a9118d84e
+Author: NATHAN DANIEL SCHIELE <nschiele@uw.edu>
+Date:   Mon Feb 15 00:21:35 2016 -0800
+
+    fdsf
